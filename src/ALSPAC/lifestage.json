@@ -1,0 +1,34 @@
+[
+  {
+    "Lifestage": "Pregnancy - 1 year",
+    "variables": 7854
+  },
+  {
+    "Lifestage": "13 months - 4 years",
+    "variables": 11
+  },
+  {
+    "Lifestage": "5 - 12 years",
+    "variables": 27939
+  },
+  {
+    "Lifestage": "13 - 18 years",
+    "variables": 13873
+  },
+  {
+    "Lifestage": "19 - 30 years",
+    "variables": 0
+  },
+  {
+    "Lifestage": "31 - 59 years",
+    "variables": 0
+  },
+  {
+    "Lifestage": "60 - 74 years",
+    "variables": 0
+  },
+  {
+    "Lifestage": "75+ years",
+    "variables": 0
+  }
+]
