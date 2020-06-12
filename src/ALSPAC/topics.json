@@ -1,0 +1,62 @@
+[
+  {
+    "Topic": "Demographics",
+    "variables": 762
+  },
+  {
+    "Topic": "Housing and local environment",
+    "variables": 3033
+  },
+  {
+    "Topic": "Physical health",
+    "variables": 13785
+  },
+  {
+    "Topic": "Mental health and mental processes",
+    "variables": 8388
+  },
+  {
+    "Topic": "Health care",
+    "variables": 1971
+  },
+  {
+    "Topic": "Health behaviour",
+    "variables": 10865
+  },
+  {
+    "Topic": "Family and social networks",
+    "variables": 4485
+  },
+  {
+    "Topic": "Education",
+    "variables": 3668
+  },
+  {
+    "Topic": "Employment and income",
+    "variables": 1089
+  },
+  {
+    "Topic": "Expectations",
+    "variables": "attitudes and beliefs"
+  },
+  {
+    "Topic": "Child development",
+    "variables": 4607
+  },
+  {
+    "Topic": "Life events",
+    "variables": 1746
+  },
+  {
+    "Topic": "Omics",
+    "variables": 20
+  },
+  {
+    "Topic": "Pregnancy",
+    "variables": 1274
+  },
+  {
+    "Topic": "Administration",
+    "variables": 2223
+  }
+]
